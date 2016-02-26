@@ -29,8 +29,7 @@ public class Configuration {
 			throw new IOException("Propertiefile does not exists");
 			
 		}
-				
-		
+			
 	}
 	
 	private void loadConfigurationSettings(Properties props) {
